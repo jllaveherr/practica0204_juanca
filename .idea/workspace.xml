@@ -28,7 +28,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Datos/Documents/GIT_juanca/practica0204_juanca&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ejercicio9">
+  <component name="RunManager" selected="Python.ejercicio7">
     <configuration name="ejercicio5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practica0204_juanca" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,9 +136,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ejercicio7" />
         <item itemvalue="Python.ejercicio9" />
         <item itemvalue="Python.ejercicio8" />
-        <item itemvalue="Python.ejercicio7" />
         <item itemvalue="Python.ejercicio6" />
         <item itemvalue="Python.ejercicio5" />
       </list>
